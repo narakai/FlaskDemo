@@ -1,7 +1,6 @@
 # coding=utf-8
 import os
 
-from flask import Flask, render_template
 from flask.ext.bootstrap import Bootstrap
 from flask.ext.moment import Moment
 from datetime import datetime
